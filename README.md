@@ -2,6 +2,8 @@
 
 Coursera
 
+http://cse.unl.edu/~sincovec/Matlab/LessonPlan.htm
+
 http://www.ohiouniversityfaculty.com/youngt/IntNumMeth/
 
 http://www.tutorialspoint.com/matlab/
